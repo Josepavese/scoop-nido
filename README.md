@@ -1,7 +1,9 @@
-# Nido — Scoop bucket
+# Nido - Scoop bucket
 
-Scoop bucket for [Nido](https://github.com/Josepavese/nido): fast, local
-QEMU/KVM VM sandboxes for AI agents, with a native MCP server.
+Scoop bucket for [Nido](https://github.com/Josepavese/nido): a local VM manager for AI agents. Create, run and reuse QEMU virtual
+machines through the CLI, terminal dashboard or native MCP server.
+
+[Quickstart](https://github.com/Josepavese/nido#press-start) · [MCP guide](https://github.com/Josepavese/nido/blob/main/docs/mcp.md)
 
 ```powershell
 scoop bucket add nido https://github.com/Josepavese/scoop-nido
