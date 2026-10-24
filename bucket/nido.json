@@ -1,13 +1,13 @@
 {
     "$schema": "https://json.schemastore.org/scoop-app-manifest.json",
-    "version": "4.8.1",
+    "version": "4.8.3",
     "description": "MCP-native VM manager for AI agents: fast local QEMU/KVM VM sandboxes",
     "homepage": "https://github.com/Josepavese/nido",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Josepavese/nido/releases/download/v4.8.1/nido-windows-amd64.zip",
-            "hash": "f86e20cb89aca52ec41fbb5725421d50732ac438b3b3c47d9d59ee4604405e58"
+            "url": "https://github.com/Josepavese/nido/releases/download/v4.8.3/nido-windows-amd64.zip",
+            "hash": "c1baec25a24502f43f929b08443b0bdf4ed9037565c66baaaca8bf1726192f34"
         }
     },
     "extract_dir": "nido-windows-amd64",
